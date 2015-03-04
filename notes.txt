@@ -1,3 +1,5 @@
 useful links:
 
 http://www.oceanographers.net/forums/showthread.php?378-How-to-make-a-FORTRAN-library
+
+http://www.pdhcenter.com/courses/m371/m371content.pdf
